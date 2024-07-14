@@ -1,7 +1,7 @@
 # gtaswitcher
 Simple GTA 5 folder switch (between like stock one for ex. GTA Online, and the other one for ex. mods)
 
-Just download the "GTA SWITCH.bat"
+Just download the "GTA SWITCH ENG.bat" or "GTA SWITCH.bat" (Italian)
 
 You need to have two copies of GTA, the stock one and the other one.
 The stock one needs to be called "Grand Theft Auto V"
